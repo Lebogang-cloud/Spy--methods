@@ -18,7 +18,7 @@ class Dress {
     this.size = size;
   }
 
-  toString() {
+  dressDetails() {
     return (
       "The brands is " +
       this.getBrand() +
